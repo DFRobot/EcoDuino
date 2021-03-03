@@ -15,7 +15,7 @@
 #ifndef AutoWatering_h
 #define AutoWatering_h
 #include <avr/eeprom.h>
-#include <arduino.h>
+#include <Arduino.h>
 
 #define addr  0
 
